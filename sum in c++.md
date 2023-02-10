@@ -1,4 +1,4 @@
-#This is how to sum two number in c++ code
+#This is how sum two number in c++ code
 int x, y;
 int sum;
 cout << "Type a number: ";
